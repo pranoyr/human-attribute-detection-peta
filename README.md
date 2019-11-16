@@ -1,3 +1,9 @@
+### Pretrained Weights
+https://drive.google.com/file/d/1WxZtkLqVEudEB9oKuxTDN9mWcJeNn_Ji/view?usp=sharing
+
+
+
+
 Citation.
 Y. Deng, P. Luo, C. C. Loy, X. Tang, "Pedestrian attribute recognition at far distance", in Proceedings of ACM Multimedia (ACM MM), 2014
 
